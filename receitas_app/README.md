@@ -1,4 +1,4 @@
-# refeicoes_app
+# receitas_app
 
 A new Flutter project.
 
